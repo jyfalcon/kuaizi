@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version:1.9.3
 
 * System dependencies
 
@@ -21,7 +21,9 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
 
 
 Please feel free to use a different markup language if you do not plan to run
